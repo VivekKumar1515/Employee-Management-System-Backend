@@ -83,6 +83,6 @@ The application allows cross-origin requests from other applications. This is co
 
 ## Conclusion
 
-This backend project for the Employee Management System provides a solid foundation for handling employee data with Spring Boot. Feel free to extend and customize the functionality as per your requirements.
+This backend project for the Employee Management System provides a solid foundation for handling employee data with Spring Boot.
 
 ---
